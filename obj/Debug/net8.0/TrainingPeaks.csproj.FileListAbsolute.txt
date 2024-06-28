@@ -1,0 +1,14 @@
+C:\Users\grung\source\repos\TrainingPeaks\bin\Debug\net8.0\TrainingPeaks.exe
+C:\Users\grung\source\repos\TrainingPeaks\bin\Debug\net8.0\TrainingPeaks.deps.json
+C:\Users\grung\source\repos\TrainingPeaks\bin\Debug\net8.0\TrainingPeaks.runtimeconfig.json
+C:\Users\grung\source\repos\TrainingPeaks\bin\Debug\net8.0\TrainingPeaks.dll
+C:\Users\grung\source\repos\TrainingPeaks\bin\Debug\net8.0\TrainingPeaks.pdb
+C:\Users\grung\source\repos\TrainingPeaks\obj\Debug\net8.0\TrainingPeaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grung\source\repos\TrainingPeaks\obj\Debug\net8.0\TrainingPeaks.AssemblyInfoInputs.cache
+C:\Users\grung\source\repos\TrainingPeaks\obj\Debug\net8.0\TrainingPeaks.AssemblyInfo.cs
+C:\Users\grung\source\repos\TrainingPeaks\obj\Debug\net8.0\TrainingPeaks.csproj.CoreCompileInputs.cache
+C:\Users\grung\source\repos\TrainingPeaks\obj\Debug\net8.0\TrainingPeaks.dll
+C:\Users\grung\source\repos\TrainingPeaks\obj\Debug\net8.0\refint\TrainingPeaks.dll
+C:\Users\grung\source\repos\TrainingPeaks\obj\Debug\net8.0\TrainingPeaks.pdb
+C:\Users\grung\source\repos\TrainingPeaks\obj\Debug\net8.0\TrainingPeaks.genruntimeconfig.cache
+C:\Users\grung\source\repos\TrainingPeaks\obj\Debug\net8.0\ref\TrainingPeaks.dll
